@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\death\Documents\Proyectos\diana\nav_bar\build\windows\x64\CMakeFiles\d927a01f23aa2ee346bb14f7e3383242\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{DD65D441-66DC-3576-BCAE-77A6ECDC0475}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

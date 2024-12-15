@@ -1,0 +1,17 @@
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/assets/glybn.png
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/assets/perfil.png
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/assets/Recursos%20recetas/arrozLeche.png
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/assets/Recursos%20recetas/camarones.png
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/assets/Recursos%20recetas/chocolate.png
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/assets/Recursos%20recetas/mora.png
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/assets/Recursos%20recetas/pasta.png
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/death/Documents/Proyectos/diana/nav_bar/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
